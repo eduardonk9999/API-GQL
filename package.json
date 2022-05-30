@@ -1,27 +1,20 @@
 {
-  "name": "roteiro",
+  "name": "api-graphql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/1922-graphql.git"
+    "url": "git+https://github.com/eduardonk9999/API-GQL.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/1922-graphql/issues"
+    "url": "https://github.com/eduardonk9999/API-GQL/issues"
   },
-  "homepage": "https://github.com/alura-cursos/1922-graphql#readme",
-  "dependencies": {
-    "apollo-server": "^3.8.1",
-    "graphql": "^16.5.0",
-    "json-server": "^0.16.1",
-    "nodemon": "^2.0.4"
-  }
+  "homepage": "https://github.com/eduardonk9999/API-GQL#readme"
 }
